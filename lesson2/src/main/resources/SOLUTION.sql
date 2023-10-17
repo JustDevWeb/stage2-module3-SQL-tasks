@@ -2,6 +2,7 @@ INSERT INTO Student (NAME , groupnumber) VALUES ( 'John' , 1),( 'Chris' , 1), ( 
 INSERT INTO Student (NAME , groupnumber) VALUES ( 'Oliver' , 2),( 'James' , 2), ( 'Lucas', 2),('Henry', 2);
 INSERT INTO Student (NAME , groupnumber) VALUES ( 'Jacob' , 3),( 'Logan' , 3);
 INSERT INTO Student (NAME , groupnumber) VALUES ( 'Daniel' , 4),( 'Joseph' , 4),('Paul',4);
+INSERT INTO Student (NAME , groupnumber) VALUES ( 'Mike' , 4),( 'Joseph' , 4),('Paul',4);
 INSERT INTO Student (NAME , groupnumber) VALUES ( 'George' , 5),( 'Andrew' , 5),('Mark',5);
 INSERT INTO SUBJECT (NAME, GRADE) VALUES ( 'Art', 1 ),('Music', 1);
 INSERT INTO SUBJECT (NAME, GRADE) VALUES ( 'Geography', 2),('History', 2);
