@@ -15,6 +15,7 @@ public class SqlConnection {
         dataSource = getDataSource();
     }
 
+
     public static Connection getConnection() throws SQLException {
         if (Objects.isNull(dataSource)) {
             dataSource = getDataSource();
