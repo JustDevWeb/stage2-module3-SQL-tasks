@@ -1,29 +1,23 @@
--- Group 1
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('John', '1992-11-14', 1);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Chris', '1994-11-14', 1);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Carl', '1990-11-14', 1);
-
--- Group 2
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Oliver', '1990-11-14', 2);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('James', '1990-11-14', 2);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Lucas', '1990-11-14', 2);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Henry', '1990-11-14', 2);
-
--- Group 3
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Jacob', '1990-11-14', 3);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Logan', '1990-11-14', 3);
-
--- Group 4
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Daniel', '1993-11-14', 4);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Joseph', '1991-11-14', 4);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Paul', '1994-11-14', 4);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Mike', '1990-11-14', 4);
-INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Joseph', '1990-11-14', 4);
+INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Tallie', '1990-11-14', 4);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Paul', '1990-11-14', 4);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Roxi', '1990-11-14', 4);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('George', '1990-11-14', 5);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Andrew', '1995-11-14', 5);
 INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Mark', '1990-11-14', 5);
+INSERT INTO Student (NAME, BIRTHDAY, groupnumber) VALUES ('Stefan', '1990-11-14', 5);
 INSERT INTO SUBJECT (NAME, GRADE) VALUES ('Art', 1);
 INSERT INTO SUBJECT (NAME, GRADE) VALUES ('Music', 1);
 INSERT INTO SUBJECT (NAME, GRADE) VALUES ('Geography', 2);
