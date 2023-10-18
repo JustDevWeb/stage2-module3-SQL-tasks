@@ -42,6 +42,7 @@ INSERT INTO MARK(STUDENT_ID, SUBJECT_ID, MARK) VALUES ((SELECT id FROM student W
 INSERT INTO MARK(STUDENT_ID, SUBJECT_ID, MARK) VALUES ((SELECT id FROM student WHERE name = 'Oliver'), (SELECT id FROM subject WHERE name = 'History'), 5);
 INSERT INTO MARK(STUDENT_ID, SUBJECT_ID, MARK) VALUES ((SELECT id FROM student WHERE name = 'James'), (SELECT id FROM subject WHERE name = 'Geography'), 9);
 INSERT INTO MARK(STUDENT_ID, SUBJECT_ID, MARK) VALUES ((SELECT id FROM student WHERE name = 'Logan'), (SELECT id FROM subject WHERE name = 'PE'), 9);
+INSERT INTO MARK(STUDENT_ID, SUBJECT_ID, MARK) VALUES ((SELECT id FROM student WHERE name = 'Jacob'), (SELECT id FROM subject WHERE name = 'Math'), 4);
 INSERT INTO MARK(STUDENT_ID, SUBJECT_ID, MARK) VALUES ((SELECT id FROM student WHERE name = 'Mike'), (SELECT id FROM subject WHERE name = 'Sociology'), 9);
 INSERT INTO MARK(STUDENT_ID, SUBJECT_ID, MARK) VALUES ((SELECT id FROM student WHERE name = 'George'), (SELECT id FROM subject WHERE name = 'Art'), 9);
 INSERT INTO MARK(STUDENT_ID, SUBJECT_ID, MARK) VALUES ((SELECT id FROM student WHERE name = 'Joseph'), (SELECT id FROM subject WHERE name = 'PE'), 9);
